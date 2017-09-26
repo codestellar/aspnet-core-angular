@@ -1,0 +1,11 @@
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\bin\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.deps.json
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\bin\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.runtimeconfig.json
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\bin\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.runtimeconfig.dev.json
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\bin\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.dll
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\bin\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.pdb
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\obj\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.csproj.CoreCompileInputs.cache
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\obj\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.AssemblyInfoInputs.cache
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\obj\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.AssemblyInfo.cs
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\obj\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.dll
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\obj\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.pdb
+E:\2017\Codestellar.DC11.Boilerplate\Codestellar.DC11.Boilerplate\obj\Debug\netcoreapp1.1\Codestellar.DC11.Boilerplate.csprojResolveAssemblyReference.cache
